@@ -16,11 +16,11 @@
 ---
 
 ## 📂 Featured Projects
-- [**Echo-Social**](https://github.com/AhmAchJR/echo-social): A feature-rich social media platform with real-time WebSocket functionality.
-- [**CodeSquare**](https://github.com/AhmAchJR/codesquare): A Hacker-News-like platform for sharing and discussing code, using the Singleton and DAO design patterns.
-- [**Book Collection API**](https://github.com/AhmAchJR/book-collection-api): A RESTful API for managing a personal library, implemented with MSSQL and Express.js.
-- [**Digital Image Processing Tasks**](https://github.com/AhmAchJR/digital-image-processing): A collection of image-processing algorithms implemented as academic tasks.
-- [**Online Courses Platform**](https://github.com/AhmAchJR/online-courses-paltform): A platform for hosting and managing online courses, with features for both instructors and students.
+- [**Echo-Social**](https://github.com/achrfjr/echo-social): A feature-rich social media platform with real-time WebSocket functionality.
+- [**CodeSquare**](https://github.com/achrfjr/codesquare): A Hacker-News-like platform for sharing and discussing code, using the Singleton and DAO design patterns.
+- [**Book Collection API**](https://github.com/achrfjr/book-collection-api): A RESTful API for managing a personal library, implemented with MSSQL and Express.js.
+- [**Digital Image Processing Tasks**](https://github.com/achrfjr/digital-image-processing): A collection of image-processing algorithms implemented as academic tasks.
+- [**Online Courses Platform**](https://github.com/achrfjr/online-courses-paltform): A platform for hosting and managing online courses, with features for both instructors and students.
 
 
 ---
