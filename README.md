@@ -16,6 +16,7 @@
 ---
 
 ## 📂 Featured Projects
+- [**Cymate**](https://github.com/achrfjr/cymate): My-Grad-Project Security Tools Management System Developed a backend system using Node.js and Express to manage and execute Python security tools, with SQLite for storage.
 - [**Echo-Social**](https://github.com/achrfjr/echo-social): A feature-rich social media platform with real-time WebSocket functionality.
 - [**CodeSquare**](https://github.com/achrfjr/codesquare): A Hacker-News-like platform for sharing and discussing code, using the Singleton and DAO design patterns.
 - [**Book Collection API**](https://github.com/achrfjr/book-collection-api): A RESTful API for managing a personal library, implemented with MSSQL and Express.js.
