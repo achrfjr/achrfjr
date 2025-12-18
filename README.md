@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Ahmed Achraf!
 
 🌟 **Computer Science Graduated Student | Aspiring DevOps Engineer**  
-🎓 Currently in my final year of studies, passionate about building solutions that blend development, security, and automation.  
-🚀 **Actively seeking opportunities** to contribute and grow in **Backend/DevOps** or related fields.
+🎓 Recently Graduated and I am passionate about building solutions that blend development, security, and automation.  
+🚀 **Actively seeking opportunities** to contribute and grow in **Backend/DevOps/System Admin** or related fields.
 
 ---
 
