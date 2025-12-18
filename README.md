@@ -8,7 +8,7 @@
 
 ## 🛠 Skills & Tools
 - **Languages:** JavaScript, TypeScript , SQL, Python, Perl
-- **Frameworks & Tools:**Express, MongoDB, SQLite, Sql Server, Git, AWS, Jest, Docker, WebSocket, Bash, Htmx, Nginx
+- **Frameworks & Tools:** Express, MongoDB, SQLite, Sql Server, Git, AWS, Jest, Docker, WebSocket, Bash, Htmx, Nginx
 - **Platforms:** Linux
 - **Cybersecurity:** Secure coding practices, basic penetration testing
 - **Data Structures & Algorithms:** Proficient in designing and implementing efficient solutions
