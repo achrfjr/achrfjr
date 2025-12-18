@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ahmed Achraf!
 
-🌟 **Computer Science Student | Aspiring DevOps Engineer**  
+🌟 **Computer Science Graduated Student | Aspiring DevOps Engineer**  
 🎓 Currently in my final year of studies, passionate about building solutions that blend development, security, and automation.  
 🚀 **Actively seeking opportunities** to contribute and grow in **Backend/DevOps** or related fields.
 
@@ -8,7 +8,7 @@
 
 ## 🛠 Skills & Tools
 - **Languages:** JavaScript, TypeScript , SQL
-- **Frameworks & Tools:**Express, MongoDB , SQLite , Sql Server, Git , Selenium , Jest , Docker , WebSocket
+- **Frameworks & Tools:**Express, MongoDB , SQLite , Sql Server, Git , Selenium , Jest , Docker , WebSocket, Bash, Htmx, Nginx
 - **Platforms:** Linux
 - **Cybersecurity:** Secure coding practices, basic penetration testing
 - **Data Structures & Algorithms:** Proficient in designing and implementing efficient solutions
